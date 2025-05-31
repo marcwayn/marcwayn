@@ -42,3 +42,5 @@ I’m passionate about uncovering insights from data and using it to solve real-
   
 - ** Heart Disease Prediction**  
   _Predicting heart disease and finding the factors most able to predict heart disease in patients.
+
+  [![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcwayn)](https://github.com/anuraghazra/github-readme-stats)
