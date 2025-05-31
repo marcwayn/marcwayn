@@ -37,10 +37,8 @@ I’m passionate about uncovering insights from data and using it to solve real-
 
 ## 📁 Featured Projects
 
-- **🔐 Breach Alert Dashboard**  
-  _A cybersecurity-themed Tableau dashboard visualizing global breach trends._  
-  *(Coming soon!)*
-
-- **📈 Mental Health & Meditation Study**  
-  _Analyzing the effects of daily meditation on mood, sleep, and vitals using Python and dat_
-  *(Coming soon!)*
+- ** Crypto Trading Bot**  
+  _A project that uses agents to predict how crypto trades would turn out.
+  
+- ** Heart Disease Prediction**  
+  _Predicting heart disease and finding the factors most able to predict heart disease in patients.
