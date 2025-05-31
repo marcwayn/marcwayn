@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcus Coleman</h1>
 <h3 align="center">A pragmatic and analytical data scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcwayn&label=Profile%20views&color=0e75b6&style=flat" alt="marcwayn" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/marcwayn](https://github.com/marcwayn)
 
 - 📝 I regularly write articles on [https://medium.com/@marcusthescientist](https://medium.com/@marcusthescientist)
