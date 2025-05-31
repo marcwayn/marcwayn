@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Marcus!
+# Hey, I'm Marcus Coleman!
 
 🚀 **Cybersecurity Veteran | Aspiring Data Scientist | Tech Explorer**
 
