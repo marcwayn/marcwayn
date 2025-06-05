@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcus Coleman</h1>
+<h1 align="center">Hey, I'm Marcus</h1>
 <h3 align="center">A pragmatic and analytical data scientist</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/marcwayn](https://github.com/marcwayn)
