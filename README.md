@@ -2,8 +2,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marcwayn](https://github.com/marcwayn)
 
-- 📝 I regularly write articles on [https://medium.com/@marcusthescientist](https://medium.com/@marcusthescientist)
-
 - 💬 Ask me about **vulnerability management, cybersecurity tools, Python, SQL and Tableau**
 
 ### Blogs posts
