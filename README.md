@@ -28,4 +28,4 @@ Building out public projects that reflect the automation and analytics work I do
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/marcusthedatanerd)
-- [Blog](https://marcusthewizard.cloud)
+- [Blog](https://marcusthedatanerd.com)
